@@ -1,0 +1,1 @@
+command prints HELLLO, WORLD
